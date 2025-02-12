@@ -1,2 +1,4 @@
 # FinalMasterThesis
-Code and Data of my thesis in Finacial Mathematics at University of Gothenburg
+In case you are wrongly directed here, please refer to the updated repository:
+https://github.com/dani-gonzalez-muela/Quantitative-Finance/tree/main/Master-Thesis
+
